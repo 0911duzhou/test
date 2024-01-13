@@ -13,8 +13,8 @@
 - 改进后效果：
 
   <p float="left">
-      <img src=figures\out_2x_1.gif width=500 />
-      <img src=figures\out_2x_2.gif width=420 />
+      <img src=out_2x_1.gif width=500 />
+      <img src=out_2x_2.gif width=420 />
   </p>
 
 - 与其他论文提出的模型架构性能对比：
